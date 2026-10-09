@@ -1,0 +1,10 @@
+Acme Corp Engineering Handbook - Q3 2026
+
+1. Work Hours & Remote Policy
+The engineering department operates on a remote-first basis. However, to facilitate cross-timezone collaboration, all engineers must be online during the core overlap hours of 10:00 AM to 3:00 PM Eastern Standard Time (EST). 
+
+2. Hardware & Equipment Budget
+Engineers are allotted an annual hardware budget of $2000 for laptops, monitors, and ergonomic equipment. If the full budget is not utilized within the calendar year, a maximum of $500 can be rolled over into the following year's budget.
+
+3. Data Security & Access
+Security is non-negotiable. All customer data must be encrypted at rest using the AES-256 standard. Accessing production databases requires a dual-authentication flow: connecting via the corporate VPN, followed by a hardware security key (YubiKey) 2FA verification.
